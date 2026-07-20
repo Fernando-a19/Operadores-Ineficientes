@@ -1,0 +1,22 @@
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+
+# Windows alternate data stream artifacts copied from NTFS
+*:Zone.Identifier
+*:Zone.Identifier:Zone.Identifier
